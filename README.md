@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GabrieleGalimberti-GaleSelector
-- 👀 I’m interested in Autonomous Driving, Machine Learning, Deep Learning, Accessibility
+- 👀 I’m interested in Autonomous Driving, SLAM, Machine Learning, Deep Learning, Accessibility
 <!--
 - 🌱 I’m currently learning 
 -->
